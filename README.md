@@ -24,3 +24,7 @@ The Open Network for Digital Commerce (ONDC) initiative aims to create a UPI-lik
 ## Target Audience
 
 The target audience for this application includes Indian customers, individuals, MNCs, retail stores, and those in need of courier services within or outside the country. By integrating various stakeholders into a single system, the application aims to create a level playing field for all players in the logistics industry and improve overall efficiency.
+
+## Deployment
+
+The application is deployed at [logigo.netlify.app](https://logigo.netlify.app/). 
